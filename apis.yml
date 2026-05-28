@@ -1,0 +1,32 @@
+aid: shields
+name: Shields
+description: "Concise, consistent, and legible badges in SVG and raster format"
+url: https://shields.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Source Projects"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Source Projects
+  - Public APIs
+apis:
+  - name: Shields
+    description: "Concise, consistent, and legible badges in SVG and raster format"
+    humanURL: https://shields.io/
+    baseURL: https://shields.io/
+    tags:
+      - Open Source Projects
+    properties:
+      - type: Documentation
+        url: https://shields.io/
+common:
+  - type: Website
+    url: https://shields.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
