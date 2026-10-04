@@ -39,7 +39,6 @@ apis:
   - name: Shields
     description: "Concise, consistent, and legible badges in SVG and raster format"
     humanURL: https://shields.io/
-    baseURL: https://shields.io/
     tags:
       - Open Source Projects
     properties:
